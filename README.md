@@ -25,4 +25,4 @@ We learned how to develop collaboratively in Visual Studio Code, and we learned 
 We can revisit Athena once we actually learn how to develop an AI Tutor and not just a concept as shown by this project.
 
 ## Built With
-css, html, javascript, Visual Studio Code
+HTML, CSS, JavaScript, Visual Studio Code
