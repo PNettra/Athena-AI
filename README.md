@@ -1,4 +1,4 @@
-# Athena-AI-Tutor-Concept-Website
+# [Athena AI Tutor (Concept Website)](https://amgoulden.github.io/Athena-AI-Tutor-Concept-Website/)
 This was the first hackathon either of us have participated in; we hope you enjoy our landing page for "Athena", an AI tutor concept :)
 
 Alex Goulden and Nettra Leandre
@@ -25,7 +25,4 @@ We learned how to develop collaboratively in Visual Studio Code, and we learned 
 We can revisit Athena once we actually learn how to develop an AI Tutor and not just a concept as shown by this project.
 
 ## Built With
-css, html, javascript, visual studio code
-
-## Try it out
-[Athena AI](https://amgoulden.github.io/Athena-AI-Tutor-Concept-Website/)
+css, html, javascript, Visual Studio Code
